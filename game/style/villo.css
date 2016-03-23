@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+/* Progress Bar in Building */
+
+#progress_max{
+	background-color: #CBCBCB;
+	width:300px;
+	height:15px;
+	font-size:12px;
+	font-weight: bold;
+	text-align:center;
+	border-radius: 0px 11px 11px 0px;
+	-moz-border-radius: 0px 11px 11px 0px;
+	-webkit-border-radius: 0px 11px 11px 0px;
+}
+
+
+#percent{
+	margin:auto;
+	position:absolute;
+	width:300px;
+}
